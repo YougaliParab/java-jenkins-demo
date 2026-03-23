@@ -5,5 +5,6 @@ public class HelloWorld {
 	        System.out.println("Hello, Jenkins + GitHub!");
 		    System.out.println("Heyyyyy");
 		 System.out.println("Auto build triggered!");
+		 System.out.println("Auto build second time triggered!");
 	    }
 }
