@@ -6,5 +6,6 @@ public class HelloWorld {
 		    System.out.println("Heyyyyy");
 		 System.out.println("Auto build triggered!")
 		 System.out.println("Auto build second time triggered!");
+		 System.out.println("Auto build third time triggered!");
 	    }
 }
